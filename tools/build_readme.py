@@ -8,7 +8,8 @@ papers = json.loads((ROOT / "papers.json").read_text())
 
 REPO = "SMSD75/awesome-watermarking"
 TOP_TIER = ["CVPR", "ICCV", "ECCV", "NeurIPS", "ICLR", "ICML", "AAAI", "ACM MM",
-            "IEEE S&P", "CCS", "NDSS", "USENIX Security", "WACV", "ICASSP", "Interspeech", "JMLR"]
+            "IEEE S&P", "CCS", "NDSS", "USENIX Security", "AISTATS", "WACV", "ICASSP", "Interspeech", "EMNLP",
+            "IEEE TIP", "IEEE TIFS", "JMLR", "ACM CSUR"]
 
 # Section tree: (anchor id, number, heading, [(sub id, number, heading, key)]) ; key = (sec, sub)
 SECTIONS = [
@@ -105,9 +106,10 @@ w('</div>\n')
 
 # ---------- News ----------
 w('## 🔥 News\n')
-w('- **[2026-10]** 🚀 Launched with ' + f'{n_papers} papers across image, video and audio watermarking, including the latest **CVPR 2026**, **ICLR 2026** and **AAAI 2026** work.')
-w('- **[2026-10]** 🎬 Video coverage spans post-hoc methods (Video Seal, WaTeRFlow) and in-generation methods for video diffusion (VideoShield, Safe-Sora, SIGMark, SPDMark).')
-w('- **[2026-10]** 🔊 Audio section added: AudioSeal, WavMark, Timbre watermarking, XAttnMark and AudioMarkBench.\n')
+w(f'- **[2026-10]** ✅ Full citation audit: every entry checked against arXiv / proceedings for title, venue, year and official code; '
+  f'list expanded to **{n_papers} papers** with new top-tier work (CVPR/ICCV/ECCV, NeurIPS/ICLR/ICML, USENIX Security, CCS, S&P, AAAI, ACM MM).')
+w('- **[2026-10]** 🚀 Launched with image, video and audio watermarking, including the latest **CVPR 2026**, **ICLR 2026** and **ICML 2026** papers.')
+w('- **[2026-10]** 🔊 Audio coverage: AudioSeal, WavMark, Timbre, AudioMarkNet (USENIX Sec), XAttnMark, GROOT, RAW-Bench and more.\n')
 w('> [!TIP]\n> ⭐ marks foundational or highly influential work. Within each section, papers are ordered newest first. '
   'Contributions are welcome — see [Contributing](#4-contributing).\n')
 

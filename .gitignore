@@ -1,3 +1,5 @@
 publish.command
 publish.log
+update.command
+update.log
 .DS_Store
