@@ -88,7 +88,7 @@ w = out.append
 
 # ---------- Header ----------
 w('<div align="center">\n')
-w('<h1>Awesome Watermarking</h1>\n')
+w('<h1>Awesome Video/Image Watermarking</h1>\n')
 w('<p><b>A curated list of watermarking research for images, video and audio — from classic deep watermarking to watermarks for diffusion and autoregressive generators, plus the attacks and benchmarks that test them.</b></p>\n')
 w(f'<a href="https://github.com/{REPO}/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>')
 w(f'<img src="https://img.shields.io/badge/papers-{n_papers}-blue.svg?style=flat-square" alt="Papers">')
