@@ -1,0 +1,880 @@
+[
+ {
+  "sec": "Foundations",
+  "sub": null,
+  "star": true,
+  "title": "Secure Spread Spectrum Watermarking for Multimedia",
+  "venue": "IEEE TIP 1997",
+  "links": {
+   "paper": "https://doi.org/10.1109/83.650120"
+  }
+ },
+ {
+  "sec": "Foundations",
+  "sub": null,
+  "star": true,
+  "title": "HiDDeN: Hiding Data With Deep Networks",
+  "venue": "ECCV 2018",
+  "links": {
+   "paper": "https://arxiv.org/abs/1807.09937",
+   "code": "https://github.com/ando-khachatryan/HiDDeN"
+  }
+ },
+ {
+  "sec": "Foundations",
+  "sub": null,
+  "star": true,
+  "title": "StegaStamp: Invisible Hyperlinks in Physical Photographs",
+  "venue": "CVPR 2020",
+  "links": {
+   "paper": "https://arxiv.org/abs/1904.05343",
+   "code": "https://github.com/tancik/StegaStamp"
+  }
+ },
+ {
+  "sec": "Foundations",
+  "sub": null,
+  "star": false,
+  "title": "Distortion Agnostic Deep Watermarking",
+  "venue": "CVPR 2020",
+  "links": {
+   "paper": "https://arxiv.org/abs/2001.04580"
+  }
+ },
+ {
+  "sec": "Foundations",
+  "sub": null,
+  "star": true,
+  "title": "Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data",
+  "venue": "ICCV 2021",
+  "links": {
+   "paper": "https://arxiv.org/abs/2007.08457",
+   "code": "https://github.com/ningyu1991/ArtificialGANFingerprints"
+  }
+ },
+ {
+  "sec": "Foundations",
+  "sub": null,
+  "star": false,
+  "title": "MBRS: Enhancing Robustness of DNN-based Watermarking by Mini-Batch of Real and Simulated JPEG Compression",
+  "venue": "ACM MM 2021",
+  "links": {
+   "paper": "https://arxiv.org/abs/2108.08211",
+   "code": "https://github.com/jzyustc/MBRS"
+  }
+ },
+ {
+  "sec": "Foundations",
+  "sub": null,
+  "star": false,
+  "title": "Watermarking Images in Self-Supervised Latent Spaces",
+  "venue": "ICASSP 2022",
+  "links": {
+   "paper": "https://arxiv.org/abs/2112.09581",
+   "code": "https://github.com/facebookresearch/ssl_watermarking"
+  }
+ },
+ {
+  "sec": "Image — Post-hoc (Encoder/Decoder) Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "TrustMark: Robust Watermarking and Watermark Removal for Arbitrary Resolution Images",
+  "venue": "ICCV 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2311.18297"
+  }
+ },
+ {
+  "sec": "Image — Post-hoc (Encoder/Decoder) Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "Attack-Resilient Image Watermarking Using Stable Diffusion (ZoDiac)",
+  "venue": "NeurIPS 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2401.04247",
+   "code": "https://github.com/zhanglijun95/ZoDiac"
+  }
+ },
+ {
+  "sec": "Image — Post-hoc (Encoder/Decoder) Watermarking",
+  "sub": null,
+  "star": true,
+  "title": "Watermark Anything with Localized Messages (WAM)",
+  "venue": "ICLR 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2411.07231",
+   "code": "https://github.com/facebookresearch/watermark-anything"
+  }
+ },
+ {
+  "sec": "Image — Post-hoc (Encoder/Decoder) Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances (VINE, W-Bench)",
+  "venue": "ICLR 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2410.18775",
+   "code": "https://github.com/Shilin-LU/VINE"
+  }
+ },
+ {
+  "sec": "Image — Post-hoc (Encoder/Decoder) Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "InvisMark: Invisible and Robust Watermarking for AI-generated Image Provenance",
+  "venue": "WACV 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2411.07795",
+   "code": "https://github.com/microsoft/InvisMark"
+  }
+ },
+ {
+  "sec": "Image — Post-hoc (Encoder/Decoder) Watermarking",
+  "sub": null,
+  "star": true,
+  "title": "SynthID-Image: Image Watermarking at Internet Scale",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2510.09263"
+  }
+ },
+ {
+  "sec": "Image — Post-hoc (Encoder/Decoder) Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "Pixel Seal: Adversarial-only Training for Invisible Image and Video Watermarking",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2512.16874",
+   "code": "https://github.com/facebookresearch/videoseal"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Fine-tuning / weight-based",
+  "star": true,
+  "title": "The Stable Signature: Rooting Watermarks in Latent Diffusion Models",
+  "venue": "ICCV 2023",
+  "links": {
+   "paper": "https://arxiv.org/abs/2303.15435",
+   "code": "https://github.com/facebookresearch/stable_signature"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Fine-tuning / weight-based",
+  "star": false,
+  "title": "A Recipe for Watermarking Diffusion Models",
+  "venue": "arXiv 2023",
+  "links": {
+   "paper": "https://arxiv.org/abs/2303.10137",
+   "code": "https://github.com/yunqing-me/WatermarkDM"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Fine-tuning / weight-based",
+  "star": false,
+  "title": "WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models",
+  "venue": "CVPR 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2306.04744"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Fine-tuning / weight-based",
+  "star": false,
+  "title": "AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA",
+  "venue": "ICML 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2405.11135",
+   "code": "https://github.com/Georgefwt/AquaLoRA"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Fine-tuning / weight-based",
+  "star": false,
+  "title": "SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models",
+  "venue": "CVPR 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2412.04852",
+   "code": "https://github.com/taco-group/SleeperMark"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Fine-tuning / weight-based",
+  "star": false,
+  "title": "WMAdapter: Adding WaterMark Control to Latent Diffusion Models",
+  "venue": "ICML 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2406.08337"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Fine-tuning / weight-based",
+  "star": false,
+  "title": "WaterFlow: Learning Fast & Robust Watermarks using Stable Diffusion",
+  "venue": "ICLR 2025 Workshop",
+  "links": {
+   "paper": "https://arxiv.org/abs/2504.12354"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Fine-tuning / weight-based",
+  "star": false,
+  "title": "SAT-LDM: Provably Generalizable Image Watermarking for Latent Diffusion Models with Self-Augmented Training",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2501.00463"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": true,
+  "title": "Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust",
+  "venue": "NeurIPS 2023",
+  "links": {
+   "paper": "https://arxiv.org/abs/2305.20030",
+   "code": "https://github.com/YuxinWenRick/tree-ring-watermark"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": true,
+  "title": "Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models",
+  "venue": "CVPR 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2404.04956",
+   "code": "https://github.com/bsmhmmlf/Gaussian-Shading"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification",
+  "venue": "ECCV 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2404.14055",
+   "code": "https://github.com/showlab/RingID"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization",
+  "venue": "NeurIPS 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2411.03862",
+   "code": "https://github.com/Hannah1102/ROBIN"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": true,
+  "title": "An Undetectable Watermark for Generative Image Models (PRC Watermark)",
+  "venue": "ICLR 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2410.07369",
+   "code": "https://github.com/XuandongZhao/PRC-Watermark"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "Hidden in the Noise: Two-Stage Robust Watermarking for Images (WIND)",
+  "venue": "ICLR 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2412.04653",
+   "code": "https://github.com/Kasraarabi/Hidden-in-the-Noise"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "GaussMarker: Robust Dual-Domain Watermark for Diffusion Models",
+  "venue": "ICML 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2506.11444"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "SEAL: Semantic Aware Image Watermarking",
+  "venue": "ICCV 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2503.12172",
+   "code": "https://github.com/Kasraarabi/SEAL"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity",
+  "venue": "ICCV 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2506.23484",
+   "code": "https://github.com/Suchenl/TAG-WM"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models",
+  "venue": "NeurIPS 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2410.21088"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "MaXsive: High-Capacity and Robust Training-Free Generative Image Watermarking in Diffusion Models",
+  "venue": "ACM MM 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2507.21195"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "OptMark: Robust Multi-bit Diffusion Watermarking via Inference Time Optimization",
+  "venue": "AAAI 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2508.21727",
+   "project": "https://jiazheng-xing.github.io/optmark-home"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "Guidance Watermarking for Diffusion Models",
+  "venue": "ICLR 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2509.22126"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "Spherical Watermark: Encryption-Free, Lossless Watermarking for Diffusion Models",
+  "venue": "ICLR 2026",
+  "links": {
+   "paper": "https://openreview.net/forum?id=2eAGrunxVz"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "MaxMark: High-Capacity Diffusion-Native Watermarking via Robust and Invertible Latent Embedding",
+  "venue": "CVPR 2026",
+  "links": {
+   "paper": "https://openaccess.thecvf.com/content/CVPR2026/html/Chang_MaxMark_High-Capacity_Diffusion-Native_Watermarking_via_Robust_and_Invertible_Latent_Embedding_CVPR_2026_paper.html"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Initial-noise / semantic (training-free)",
+  "star": false,
+  "title": "Luminark: Training-free, Probabilistically-Certified Watermarking for General Vision Generative Models",
+  "venue": "arXiv 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2601.01085"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Autoregressive & other generators",
+  "star": false,
+  "title": "Watermarking Autoregressive Image Generation",
+  "venue": "NeurIPS 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2506.16349",
+   "code": "https://github.com/facebookresearch/wmar"
+  }
+ },
+ {
+  "sec": "Image — In-Generation Watermarking for Generative Models",
+  "sub": "Autoregressive & other generators",
+  "star": false,
+  "title": "A Watermark for Auto-Regressive Image Generation Models",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2506.11371"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "Post-hoc video",
+  "star": true,
+  "title": "RivaGAN: Robust Invisible Video Watermarking with Attention",
+  "venue": "arXiv 2019",
+  "links": {
+   "paper": "https://arxiv.org/abs/1909.01285",
+   "code": "https://github.com/DAI-Lab/RivaGAN"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "Post-hoc video",
+  "star": false,
+  "title": "DVMark: A Deep Multiscale Framework for Video Watermarking",
+  "venue": "arXiv 2021 (Google)",
+  "links": {
+   "paper": "https://arxiv.org/abs/2104.12734"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "Post-hoc video",
+  "star": true,
+  "title": "Video Seal: Open and Efficient Video Watermarking",
+  "venue": "arXiv 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2412.09492",
+   "code": "https://github.com/facebookresearch/videoseal"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "Post-hoc video",
+  "star": false,
+  "title": "Pixel Seal: Adversarial-only Training for Invisible Image and Video Watermarking",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2512.16874",
+   "code": "https://github.com/facebookresearch/videoseal"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "Post-hoc video",
+  "star": false,
+  "title": "WaTeRFlow: Watermark Temporal Robustness via Flow Consistency",
+  "venue": "CVPR 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2512.19048"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": false,
+  "title": "LVMark: Robust Watermark for Latent Video Diffusion Models",
+  "venue": "arXiv 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2412.09122"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": true,
+  "title": "VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking",
+  "venue": "ICLR 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2501.14195",
+   "code": "https://github.com/hurunyi/VideoShield"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": false,
+  "title": "Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking",
+  "venue": "NeurIPS 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2505.12667",
+   "code": "https://github.com/Sugewud/Safe-Sora"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": false,
+  "title": "VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2504.16359",
+   "code": "https://github.com/KYRIE-LI11/VideoMark"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": false,
+  "title": "VidStamp: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2505.01406",
+   "code": "https://github.com/SPIN-UMass/VidStamp"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": false,
+  "title": "Video Signature: Implicit Watermarking for Video Diffusion Models (VidSig)",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2506.00652"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": false,
+  "title": "I2VWM: Robust Watermarking for Image to Video Generation",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2509.17773"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": false,
+  "title": "SPDMark: Selective Parameter Displacement for Robust Video Watermarking",
+  "venue": "CVPR 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2512.12090"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": false,
+  "title": "SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion",
+  "venue": "ICLR 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2603.02882",
+   "code": "https://github.com/JeremyZhao1998/SIGMark-release"
+  }
+ },
+ {
+  "sec": "Video Watermarking",
+  "sub": "In-generation (video diffusion)",
+  "star": false,
+  "title": "SKeDA: A Generative Watermarking Framework for Text-to-video Diffusion Models",
+  "venue": "arXiv 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2603.00194"
+  }
+ },
+ {
+  "sec": "Audio Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "WavMark: Watermarking for Audio Generation",
+  "venue": "arXiv 2023",
+  "links": {
+   "paper": "https://arxiv.org/abs/2308.12770",
+   "code": "https://github.com/wavmark/wavmark"
+  }
+ },
+ {
+  "sec": "Audio Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "Collaborative Watermarking for Adversarial Speech Synthesis",
+  "venue": "ICASSP 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2309.15224"
+  }
+ },
+ {
+  "sec": "Audio Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "Detecting Voice Cloning Attacks via Timbre Watermarking",
+  "venue": "NDSS 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2312.03410",
+   "code": "https://github.com/TimbreWatermarking/TimbreWatermarking"
+  }
+ },
+ {
+  "sec": "Audio Watermarking",
+  "sub": null,
+  "star": true,
+  "title": "Proactive Detection of Voice Cloning with Localized Watermarking (AudioSeal)",
+  "venue": "ICML 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2401.17264",
+   "code": "https://github.com/facebookresearch/audioseal"
+  }
+ },
+ {
+  "sec": "Audio Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "SilentCipher: Deep Audio Watermarking",
+  "venue": "Interspeech 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2406.03822",
+   "code": "https://github.com/sony/silentcipher"
+  }
+ },
+ {
+  "sec": "Audio Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "Latent Watermarking of Audio Generative Models",
+  "venue": "ICASSP 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2409.02915"
+  }
+ },
+ {
+  "sec": "Audio Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "XAttnMark: Learning Robust Audio Watermarking with Cross-Attention",
+  "venue": "ICML 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2502.04230"
+  }
+ },
+ {
+  "sec": "Audio Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "AudioMarkBench: Benchmarking Robustness of Audio Watermarking",
+  "venue": "NeurIPS 2024 (D&B)",
+  "links": {
+   "paper": "https://arxiv.org/abs/2406.06979"
+  }
+ },
+ {
+  "sec": "Audio Watermarking",
+  "sub": null,
+  "star": false,
+  "title": "SoK: How Robust is Audio Watermarking in Generative AI Models?",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2503.19176"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "Evading Watermark based Detection of AI-Generated Content",
+  "venue": "CCS 2023",
+  "links": {
+   "paper": "https://arxiv.org/abs/2305.03807"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks",
+  "venue": "ICLR 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2310.00076"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "Leveraging Optimization for Adaptive Attacks on Image Watermarks",
+  "venue": "ICLR 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2309.16952"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": true,
+  "title": "Invisible Image Watermarks Are Provably Removable Using Generative AI",
+  "venue": "NeurIPS 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2306.01953",
+   "code": "https://github.com/XuandongZhao/WatermarkAttacker"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "Can Simple Averaging Defeat Modern Watermarks?",
+  "venue": "NeurIPS 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2406.09026",
+   "code": "https://github.com/showlab/watermark-steganalysis"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "Stable Signature is Unstable: Removing Image Watermark from Diffusion Models",
+  "venue": "arXiv 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2405.07145"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": true,
+  "title": "UnMarker: A Universal Attack on Defensive Image Watermarking",
+  "venue": "IEEE S&P 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2405.08363",
+   "code": "https://github.com/andrekassis/ai-watermark"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "Image Watermarks are Removable Using Controllable Regeneration from Clean Noise (CtrlRegen)",
+  "venue": "ICLR 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2410.05470",
+   "code": "https://github.com/yepengliu/CtrlRegen"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "A Transfer Attack to Image Watermarks",
+  "venue": "ICLR 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2403.15365",
+   "code": "https://github.com/hifi-hyp/Watermark-Transfer-Attack"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models",
+  "venue": "CVPR 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2412.03283",
+   "code": "https://github.com/and-mill/semantic-forgery"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "Forging and Removing Latent-Noise Diffusion Watermarks Using a Single Image",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2504.20111",
+   "code": "https://github.com/anubhav1997/watermark_forgery_removal"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "SHIFT: Stochastic Hidden-Trajectory Deflection for Removing Diffusion-based Watermark",
+  "venue": "arXiv 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2603.29742",
+   "code": "https://github.com/ZhengGao-30/SHIFT-Watermark-Attack"
+  }
+ },
+ {
+  "sec": "Attacks: Removal, Forgery, Spoofing",
+  "sub": null,
+  "star": false,
+  "title": "MarkNull: Model-Agnostic Watermark Removal in AI-Generated Images via On-Manifold Latent Manipulation",
+  "venue": "arXiv 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2608.10166"
+  }
+ },
+ {
+  "sec": "Benchmarks, Surveys & Toolkits",
+  "sub": null,
+  "star": true,
+  "title": "WAVES: Benchmarking the Robustness of Image Watermarks",
+  "venue": "ICML 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2401.08573",
+   "code": "https://github.com/umd-huang-lab/WAVES"
+  }
+ },
+ {
+  "sec": "Benchmarks, Surveys & Toolkits",
+  "sub": null,
+  "star": false,
+  "title": "SoK: Watermarking for AI-Generated Content",
+  "venue": "arXiv 2024",
+  "links": {
+   "paper": "https://arxiv.org/abs/2411.18479"
+  }
+ },
+ {
+  "sec": "Benchmarks, Surveys & Toolkits",
+  "sub": null,
+  "star": false,
+  "title": "Erasing the Invisible: The 2024 NeurIPS Competition on Stress Testing Image Watermarks (Technical Report)",
+  "venue": "NeurIPS 2025 (D&B)",
+  "links": {
+   "paper": "https://openreview.net/forum?id=BeFjjyzWOJ"
+  }
+ },
+ {
+  "sec": "Benchmarks, Surveys & Toolkits",
+  "sub": null,
+  "star": false,
+  "title": "VideoMarkBench: Benchmarking Robustness of Video Watermarking",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2505.21620",
+   "code": "https://github.com/zhengyuan-jiang/VideoMarkBench"
+  }
+ },
+ {
+  "sec": "Benchmarks, Surveys & Toolkits",
+  "sub": null,
+  "star": false,
+  "title": "MarkDiffusion: An Open-Source Toolkit for Generative Watermarking of Latent Diffusion Models",
+  "venue": "JMLR 2026",
+  "links": {
+   "paper": "https://arxiv.org/abs/2509.10569",
+   "code": "https://github.com/THU-BPM/MarkDiffusion"
+  }
+ },
+ {
+  "sec": "Benchmarks, Surveys & Toolkits",
+  "sub": null,
+  "star": false,
+  "title": "Detection Limits and Statistical Separability of Tree Ring Watermarks in Rectified Flow-based Text-to-Image Generation Models",
+  "venue": "arXiv 2025",
+  "links": {
+   "paper": "https://arxiv.org/abs/2504.03850",
+   "code": "https://github.com/dsgiitr/flux-watermarking"
+  }
+ }
+]
