@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Awesome Watermarking</h1>
+<h1>Awesome Video/Image Watermarking</h1>
 
 <p><b>A curated list of watermarking research for images, video and audio — from classic deep watermarking to watermarks for diffusion and autoregressive generators, plus the attacks and benchmarks that test them.</b></p>
 
